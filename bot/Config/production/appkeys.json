@@ -1,0 +1,12 @@
+{
+    "fbPageAccessToken": "FB_token",
+    "fbAppId": "app id",
+    "fbPageId": "page id",
+    "djangoToken": "Token ",
+    "product_analytics_index": "bot_product_analytics",
+    "eng_analytics_index": "bot_eng_analytics",
+    "bot_host_name": "https://host.com",
+    "stripeKey": "sk_test",
+    "isActiveMode": true
+}
+

@@ -1,0 +1,6 @@
+{
+    "hostname": "host",
+    "user": "admin",
+    "password": "password",
+    "database": "bot_database_prod"
+}

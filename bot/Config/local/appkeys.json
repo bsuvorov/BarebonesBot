@@ -1,0 +1,8 @@
+{
+    "fbPageAccessToken": "fb page token",
+    "fbAppId": "app id",
+    "fbPageId": "page id",
+    "djangoToken": "Token",
+    "product_analytics_index": "local_product_analytics"
+}
+

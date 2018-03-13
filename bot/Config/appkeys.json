@@ -1,0 +1,7 @@
+{
+    "fbPageAccessToken": "token",
+    "djangoToken": "token",
+    "eng_analytics_index": "eng_analytics",
+    "stripeKey": "stripe key"
+}
+
